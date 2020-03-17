@@ -8,10 +8,12 @@
     <string name="m4">Snack</string>
     <string name="m5">Dinner</string>
     <string name="button">Add</string>
-    <string name="t1">Add Meal</string>
-    <string name="t2">Add Snack</string>
-    <string name="t3">Add Lunch</string>
-    <string name="t4">Add Snack</string>
-    <string name="t5">Add Meal</string>
-    <string name="t6">Add Snack</string>
+    <string name="t1">bread and fruit</string>
+    <string name="t2">Shakeology with armond milk</string>
+    <string name="t3">Green Salod</string>
+    <string name="t4">Veggies and Hummus</string>
+    <string name="t5">mini pizza</string>
+    <string name="t6">Veggies and cottage cheese</string>
+    <string name="clear">Clear</string>
+    <string name="save">Save</string>
 </resources>
