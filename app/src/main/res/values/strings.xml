@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="user">Onali</string>
+    <string name="Meal">Meal   Plan</string>
+    <string name="m1">Breakfast</string>
+    <string name="m2">Snack</string>
+    <string name="m3">Lunch</string>
+    <string name="m4">Snack</string>
+    <string name="m5">Dinner</string>
+    <string name="button">Add</string>
+    <string name="t1">Add Meal</string>
+    <string name="t2">Add Snack</string>
+    <string name="t3">Add Lunch</string>
+    <string name="t4">Add Snack</string>
+    <string name="t5">Add Meal</string>
+    <string name="t6">Add Snack</string>
+</resources>
